@@ -2,7 +2,7 @@
   "name": "firelight-gui",
   "version": "1.0.0",
   "description": "The frontend for the firelight control system",
-  "main": "main.js",
+  "main": "scripts/main.js",
   "scripts": {
     "start": "electron ."
   },

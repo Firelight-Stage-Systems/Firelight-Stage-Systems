@@ -11,7 +11,7 @@ const createWindow = () => {
         }
     })
 
-    win.loadFile('index.html')
+    win.loadFile('templates/index.html')
 }
 
 
