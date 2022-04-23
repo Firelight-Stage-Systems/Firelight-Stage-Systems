@@ -1,0 +1,23 @@
+{
+  "name": "firelight-gui",
+  "version": "1.0.0",
+  "description": "The frontend for the firelight control system",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Firelight-Stage-Software/GUI.git"
+  },
+  "author": "Firelight-Stage-Systems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Firelight-Stage-Software/GUI/issues"
+  },
+  "homepage": "https://github.com/Firelight-Stage-Software/GUI#readme",
+  "devDependencies": {
+    "electron": "^18.1.0"
+  }
+}
