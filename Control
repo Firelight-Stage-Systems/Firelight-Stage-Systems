@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T19:27:39.927Z" agent="5.0 (Windows)" etag="M8exCSxSzFVss-K7oi0w" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-23T19:28:43.922Z" agent="5.0 (Windows)" etag="4s46M7o6YqKlRpZEJZd7" version="17.4.6" type="github">
   <diagram id="nQmuN0LaTXsbGDrR1NgS" name="Page-1">
-    <mxGraphModel dx="563" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="675" dy="434" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,6 +26,9 @@
               <mxPoint x="230" y="280" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="RSGN98P7tAEtg5d0m9Ru-1" value="&lt;div&gt;Proprietery thingy majig&lt;/div&gt;&lt;div&gt;we need to make&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aTVhlW_rUYvWLI1ALk3t-1" target="aTVhlW_rUYvWLI1ALk3t-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="aTVhlW_rUYvWLI1ALk3t-1" value="FireLight" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="360" width="120" height="60" as="geometry" />
