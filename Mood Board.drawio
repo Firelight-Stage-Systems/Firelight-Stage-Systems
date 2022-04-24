@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-24T14:09:26.546Z" agent="5.0 (X11)" etag="tZsLzHYR4AygoFPO_0iy" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-24T14:14:08.411Z" agent="5.0 (X11)" etag="Z4BWwP7i4GUW8dXN8Ccc" version="17.4.6" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
-    <mxGraphModel dx="1828" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2984" dy="1152" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -326,8 +326,7 @@
         <mxCell id="UPubosHkuK7zSJsUa524-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" source="wRD3SJxZmMJ9yp1jfjRP-16" target="UPubosHkuK7zSJsUa524-138" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-450" y="920" />
-              <mxPoint x="-480" y="920" />
+              <mxPoint x="-480" y="930" />
               <mxPoint x="-480" y="1075" />
             </Array>
             <mxPoint x="-463" y="1085" as="sourcePoint" />
@@ -535,22 +534,22 @@
         <mxCell id="wRD3SJxZmMJ9yp1jfjRP-9" value="Pause" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-400" y="850" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wRD3SJxZmMJ9yp1jfjRP-12" value="Show API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;gradientColor=#99CCFF;" vertex="1" parent="1">
+        <mxCell id="wRD3SJxZmMJ9yp1jfjRP-12" value="Show API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFB3;gradientColor=#99CCFF;strokeColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="-450" y="790" width="50" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UPubosHkuK7zSJsUa524-70" value="Fast API" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-470" y="730" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wRD3SJxZmMJ9yp1jfjRP-16" value="&lt;div&gt;Music API&lt;/div&gt;&lt;div&gt;(Chanel 1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;gradientColor=#99CCFF;" vertex="1" parent="1">
+        <mxCell id="wRD3SJxZmMJ9yp1jfjRP-16" value="&lt;div&gt;Music API&lt;/div&gt;&lt;div&gt;(Chanel 1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFB3;gradientColor=#99CCFF;strokeColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="-450" y="910" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wRD3SJxZmMJ9yp1jfjRP-24" value="&lt;div&gt;Music API&lt;/div&gt;&lt;div&gt;(Chanel. 3)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;gradientColor=#99CCFF;" vertex="1" parent="1">
+        <mxCell id="wRD3SJxZmMJ9yp1jfjRP-24" value="&lt;div&gt;Music API&lt;/div&gt;&lt;div&gt;(Chanel. 3)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFB3;gradientColor=#99CCFF;strokeColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="-450" y="990" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wRD3SJxZmMJ9yp1jfjRP-25" value="&lt;div&gt;Music API&lt;/div&gt;&lt;div&gt;(Chanel. 2)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;gradientColor=#99CCFF;" vertex="1" parent="1">
+        <mxCell id="wRD3SJxZmMJ9yp1jfjRP-25" value="&lt;div&gt;Music API&lt;/div&gt;&lt;div&gt;(Chanel. 2)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFB3;gradientColor=#99CCFF;strokeColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="-450" y="950" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wRD3SJxZmMJ9yp1jfjRP-26" value="&lt;div&gt;Music API&lt;/div&gt;&lt;div&gt;(Chanel. 4)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCFF99;gradientColor=#99CCFF;" vertex="1" parent="1">
+        <mxCell id="wRD3SJxZmMJ9yp1jfjRP-26" value="&lt;div&gt;Music API&lt;/div&gt;&lt;div&gt;(Chanel. 4)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#66FFB3;gradientColor=#99CCFF;strokeColor=#99CCFF;" vertex="1" parent="1">
           <mxGeometry x="-450" y="1030" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
