@@ -2,6 +2,8 @@ from fastapi.templating import Jinja2Templates
 from fastapi import Request
 import json
 
+from pydantic import BaseModel
+
 
 class Info():
     def __init__(self) -> None:
@@ -27,3 +29,12 @@ def https_url_for(request:Request, funcName, **fileName) -> str:
         return http_url
 
 templates.env.globals["https_url_for"] = https_url_for
+
+class ShowState(BaseModel):
+    start: bool
+    pause: bool
+
+class Show():
+    ShowState = {"Start":False, "Pause": False}
+    MusicAPI = [None, None, None, None, None, None, None, None]
+    SMPTE = ''

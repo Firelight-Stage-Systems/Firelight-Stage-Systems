@@ -2,12 +2,14 @@ from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse, FileResponse, HTMLResponse
 
 from HTMLSide import MainHTML
-from APISide import MainAPI
+from APIExternal import ExternalAPI
+from APIInternal import InternalAPI
 from dependencies import templates, Data
 
 app = FastAPI()
 app.include_router(MainHTML.router)
-app.include_router(MainAPI.router)
+app.include_router(ExternalAPI.router)
+app.include_router(InternalAPI.router)
 
 @app.get('/Empty', response_class=HTMLResponse)
 def Empty() -> HTMLResponse:
