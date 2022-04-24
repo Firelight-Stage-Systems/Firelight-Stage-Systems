@@ -1,0 +1,7 @@
+{
+    "Developer": {
+        "Mode": true,
+        "DBPath": "data/",
+        "https": false
+    }
+}
